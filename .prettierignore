@@ -1,0 +1,7 @@
+# Ignore Everything
+/*
+node_modules
+
+# Except project and test files
+!/**/*.ts
+
